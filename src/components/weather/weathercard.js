@@ -105,7 +105,7 @@ const Weathercard = ({tempInfo}) =>{
 
                        
 
-                    {/* <div className="weather-extra-info"></div> */}
+                
 
                 </div>
                 
